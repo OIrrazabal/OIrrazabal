@@ -30,7 +30,6 @@
 - 💼 Trabajo como asistente de Dirección en el Dpto. de Electrónica e Informática.
 - 🚀 Aprendiendo JavaScript y Next.js para el desarrollador web.
 - 📚 También me interesa Python y la automatización con Google Apps Script.
-- 🌎 Me esfuerzo por mejorar mi inglés.
 - 🎮 Fan de los videojuegos, la música y la tecnología.
 
 ---
