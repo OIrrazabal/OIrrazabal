@@ -11,10 +11,9 @@
   👋 ¡Bienvenido/a! Soy Omar Irrazábal
 </h3>
 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Estudiante+de+último+año+de+Análisis+de+Sistemas;Apasionado+por+la+tecnología;Siempre+aprendiendo+💻;Estudiante+avanazado;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Desarrollador.;Apasionado+por+la+tecnología;JavaScript+%7C+Node.js+%7C+Google+Apps+Script;Siempre+aprendiendo+%F0%9F%92%BB" />
   </a>
 </p>
 
@@ -26,19 +25,21 @@
 
 ---
 
-- 🎓 Me encuentro en mi último año de carrera de Análisis de Sistemas Informáticos en la Universidad Católica "Nuestra Señora de la Asunción" - Paraguay.
+- 🎓 Estudiante de Análisis de Sistemas Informáticos en la Universidad Católica "Nuestra Señora de la Asunción" - Paraguay, con tesis en curso.
 - 💼 Trabajo como asistente de Dirección en el Dpto. de Electrónica e Informática.
-- 🚀 Aprendiendo JavaScript y Next.js para el desarrollador web.
-- 📚 También me interesa Python y la automatización con Google Apps Script.
+- 💻 Desde 2021 desarrollo y mantengo aplicaciones web y automatizaciones internas.
+- 🚀 Enfocado en desarrollo Full Stack con JavaScript, Node.js, TypeScript y Next.js.
+- 📚 También trabajo con Python y Google Apps Script para automatización de procesos.
 - 🎮 Fan de los videojuegos, la música y la tecnología.
 
 ---
 
-## 🛠️ Tecnologías que estoy aprendiendo
+## 🛠️ Tecnologías
 
 ### 🔤 Lenguajes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -46,13 +47,20 @@
 ### 📦 Frameworks / Librerías
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
 ### 🛠️ Herramientas y tecnologías
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🗄️ Bases de datos
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
@@ -83,5 +91,5 @@
 ---
 
 <h6 align="center">Gracias por visitar mi perfil 🙌</h6>
-<h6 align="center">📅 Última actualización: 21 de julio de 2025</h6>
+<h6 align="center">📅 Última actualización: septiembre de 2026</h6>
 
